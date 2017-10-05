@@ -1,3 +1,4 @@
+// again
 // Write a function that takes a number as an argument and logs all the numbers, descending, between the number and 1
 // function logall(num){
 //     for(var i = num; i>0; i -=1){
