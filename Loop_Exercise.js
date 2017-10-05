@@ -112,33 +112,4 @@ beerSong()
 // console.log("Alan said, \"Peter is learning Javascript\".")
 // console.log("I am a \"double quoted\" string inside \"double quotes\".")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// editing on github
