@@ -1,0 +1,29 @@
+body{
+    font-size: 24px;
+    width: 40em;
+    background-color: darkgray;
+    margin: auto;
+}
+@media (max-width: width 961px){
+    body{
+        width:30em
+    }
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid black;
+    color: darkred;
+}
+div{
+    text-align: center;
+}
+img{
+    border: 5px solid orangered;
+    box-shadow: 5px
+}
+#one{
+    color: darkred;
+}
