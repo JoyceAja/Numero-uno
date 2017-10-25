@@ -6,8 +6,18 @@ body{
         background-color: purple;
     }
 }
-@media (max-width: 600px){
+@media (max-width: 500px){
     p{
         font-size: 30px
+    }
+}
+@media (min-width: 500px) and (max-width:600px){
+    p{
+        font-size: 25px
+    }
+}
+@media(min-width:600px){
+    p{
+        font-size:20px
     }
 }

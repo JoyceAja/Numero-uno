@@ -1,0 +1,45 @@
+ul{
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    background-color: pink;
+    font-size: 25px;
+    margin-top: 0px;
+    list-style-image: url("dot.png");
+    font-style: italic;
+}
+a:link{
+    text-decoration: none;
+}
+li{
+    padding-bottom: 30px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin: 0px 0px 30px 160px;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+p{
+    float: right;
+    margin-right: 8%; 
+    width: 60%;
+
+}
+img{
+    display: block;
+    margin: auto;
+    padding-left: 180px;
+    width: 45%;
+    padding-bottom:20px;
+}
+@media print{
+    ul{
+        display: none;
+    }
+    p{
+        width: 100%
+    }
+}
