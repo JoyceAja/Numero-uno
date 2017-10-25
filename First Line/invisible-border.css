@@ -1,0 +1,25 @@
+body{
+    background-image: url("habitat.jpg")
+}
+a, a:link{
+    color: blue;
+}
+
+a:visited{
+    color: gray;
+}
+a:hover, a:active{
+    color: green;
+    font-weight: bold;
+}
+p:first-of-type::first-line{
+    text-transform: uppercase;
+}
+p:nth-of-type(2)::first-line{
+    background-color: pink;
+}
+img{
+    border:25px solid rgba(0,0,0,0)
+}
+img:hover{
+    border: 5px solid orangered}
