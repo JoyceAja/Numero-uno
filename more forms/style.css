@@ -1,0 +1,9 @@
+.submitForm{
+    display: none;
+}
+input:valid{
+    border-color:lightgreen;
+}
+input:focus{
+    background-color: yellow;
+}
