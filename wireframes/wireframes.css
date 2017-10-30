@@ -1,0 +1,25 @@
+.content{
+    text-align: center;
+}
+.top{
+    background-color:blueviolet;
+    height: 300px;
+}
+li{
+    display:inline;
+    color: white;
+}
+.comp{
+    float: left;
+}
+li{
+    float: right;
+    padding: 5px;
+}
+img{
+    width: 200px;
+    margin-left: auto;
+}
+.pic,.words{
+    float: left;
+}

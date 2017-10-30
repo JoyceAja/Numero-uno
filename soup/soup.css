@@ -1,0 +1,32 @@
+ul span{
+    font-weight: bold;
+}
+
+ul,ol{
+    height: 100px;
+    width: 50%;
+    color: white;
+    margin: 5px;
+    
+}
+h1,h2{
+    color: coral;
+    width: 25%;
+    text-shadow: 1px 1px 5px black;
+}
+h1{
+    margin-bottom: 30px;
+}
+
+h2{
+    padding-bottom: 15px;
+}
+li{
+    width: 75%;
+    line-height: 20px;
+}
+body{
+    background-image: url("soup.jpg");
+    background-repeat: no-repeat;
+    background-position: top top;
+}

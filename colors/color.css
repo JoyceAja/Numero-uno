@@ -1,0 +1,41 @@
+#first{
+    width: 80px;
+    z-index: 5;
+    position: fixed;
+    margin: 110px;
+
+}
+#second{
+    width: 120px;
+    position: fixed;
+    z-index: 4;
+    margin: 90px;
+
+}
+#third{
+    width:150px;
+    position: fixed;
+    z-index: 3;
+    margin: 75px;
+}
+#fourth{
+    width:200px;
+    position: fixed;
+    z-index: 2;
+    margin: 50px
+}
+#fifth{
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    margin: 25px;
+}
+#sixth{
+    width: 300px;
+    position: fixed;
+    z-index: 0;
+    background-color:brown;
+}
+div{
+    line-height: 400px; 
+}

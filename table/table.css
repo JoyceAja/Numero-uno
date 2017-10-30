@@ -1,0 +1,28 @@
+h1{
+    text-decoration: underline;
+}
+body{
+   text-align: center;
+   background-color: #556b2f;
+   font-size: 28px;
+}
+table{
+    margin: auto;
+}
+.prop{
+    font-family: monospace;
+}
+h1,td{
+    font-family: sans-serif;
+}
+th,td{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+ .tit,.prop{
+     padding-left: 40px;
+ }
+ .tit2{
+     padding-right: 20px;
+ }

@@ -1,0 +1,30 @@
+#sidebar{
+    position: absolute;
+    width: 200px;
+    /* border is not working */
+}
+#sidebar ul{
+    list-style: none;
+    border-right: 1px dotted grey;
+}
+
+a:hover{
+    color: pink;
+}
+div#content{
+    float: right;
+    width: 800px;
+}
+h2{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+}
+h2,div#content li{
+    font-family: sans-serif;
+}
+a:link{
+    text-decoration: none;
+}
