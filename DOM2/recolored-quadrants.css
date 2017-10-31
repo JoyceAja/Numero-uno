@@ -1,0 +1,17 @@
+body{
+    width: 960px;
+    height: 450px;
+}
+#topLeft, #topRight, #bottomLeft, #bottomRight{
+    border: 2px black;
+    position: absolute;
+    height: 45%;
+    width: 45%
+}
+#topRight, #bottomRight{
+    margin-left:48% 
+}
+#bottomLeft, bottomRight{
+    margin-top: 30%
+}
+
