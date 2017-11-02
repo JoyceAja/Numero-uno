@@ -7,3 +7,7 @@ document.addEventListener('click', function(event){
         back.style.backgroundColor = 'mediumaquamarine'
     }
 })
+
+//better & shorter approach
+// var isLeftSide = event.clientX > window.innerWidth/2 
+// back.style.backgroundColor =  isLeftSide ? "peachpuff" : 'mediumaquamarine';

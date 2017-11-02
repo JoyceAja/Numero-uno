@@ -1,0 +1,32 @@
+body{
+    width: 960px;
+    height: 450px;
+}
+#topLeft{
+    position: absolute;
+    /* background-color: green; */
+    height: 45%;
+    width: 45%
+}
+#topRight{
+    position: absolute;
+    /* background-color: yellow; */
+    height: 45%;
+    width: 45%;
+    margin-left:48% 
+}
+#bottomLeft{
+    position: absolute;
+    /* background-color: red; */
+    height: 45%;
+    width: 45%;
+    margin-top: 30%
+}
+#bottomRight{
+    position: absolute;
+    /* background-color: purple; */
+    height: 45%;
+    width: 45%;
+    margin-top: 30%;
+    margin-left:48% 
+}
