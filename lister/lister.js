@@ -7,6 +7,7 @@ form.addEventListener('submit', function (event) {
     var list = document.createElement('li')
     unlist.appendChild(list)
     list.innerText = input.value
+    input.value = ''
 
     //Part 2
     var line = list.style
